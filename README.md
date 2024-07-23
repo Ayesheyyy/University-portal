@@ -1,0 +1,1 @@
+This University Portal Website is a user-friendly application built with HTML, CSS, and JavaScript. It provides easy access to university news, events, student information, and course details, featuring a responsive design and interactive elements for an enhanced user experience.
