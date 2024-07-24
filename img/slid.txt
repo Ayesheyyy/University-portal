@@ -1,0 +1,10 @@
+<div>
+  <img src="images/fade.png" class="slideshow" style="width:100%">
+      <div class="slideshow slideshow-container">
+        <img src="images/8ff3621a-84c5-4a4d-bca6-77e870edf558.jpg" class="mySlides fade" style="width: 100%;">
+         <img src="images/WhatsApp Image 2023-03-30 at 3.26.56 PM.jpeg" class="mySlides fade" style="width:100%">
+         <img src="images/WhatsApp-Image-2023-04-20-at-10.41.jpg" class="mySlides fade" style="width:100%">
+
+         <div class="text">Barani Institute Of Science</div>
+      </div>
+</div>
